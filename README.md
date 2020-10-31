@@ -1,6 +1,5 @@
 ## Hi there!!! Im Rafly Maulana <img  src="https://media1.tenor.com/images/dc4e4c324a8ceaa5b088758489673deb/tenor.gif" height="50" alt=""/>  
   
-### Stats  
 ![github stats](https://github-readme-stats.vercel.app/api?username=raflymaulana28&show_icons=true&theme=radical)  ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=raflymaulana28&layout=compact&theme=nightowl)
 
 ### About Me
@@ -14,5 +13,7 @@
 ### Latest Blog  
 - [Kenapa Aku Memilih ReactJS?](https://medium.com/@raflymaulana/kenapa-aku-memilih-react-js-94c82da48623)  
 - [Aku, Kopi dan Code](https://medium.com/@raflymaulana/aku-kopi-dan-code-a34de3e399e8)  
-  
-### Spasibo 👋👋👋
+    
+
+### Spasibo 👋👋👋  
+<img src="https://i.giphy.com/media/ZEwwUHQOb7RBaywZds/giphy.webp" alt=""/>
