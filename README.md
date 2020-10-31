@@ -1,4 +1,4 @@
-## Hi there Im Rafly Maulana <img  src="https://media1.tenor.com/images/dc4e4c324a8ceaa5b088758489673deb/tenor.gif" height="50" alt=""/>  
+## Hi there!!! Im Rafly Maulana <img  src="https://media1.tenor.com/images/dc4e4c324a8ceaa5b088758489673deb/tenor.gif" height="50" alt=""/>  
   
 ### Stats  
 ![github stats](https://github-readme-stats.vercel.app/api?username=raflymaulana28&show_icons=true&theme=radical)  ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=raflymaulana28&layout=compact&theme=nightowl)
