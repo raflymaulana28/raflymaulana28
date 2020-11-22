@@ -13,6 +13,7 @@
 ### Latest Blog  
 - [Kenapa Aku Memilih ReactJS?](https://medium.com/@raflymaulana/kenapa-aku-memilih-react-js-94c82da48623)  
 - [Aku, Kopi dan Code](https://medium.com/@raflymaulana/aku-kopi-dan-code-a34de3e399e8)  
+- [NgeReact Eps. 1 : Hello World dan Buat To Do App](https://raflymaulana.medium.com/ngereact-eps-1-hello-world-dan-buat-to-do-app-1945b3797798)
     
 
 ### Spasibo 👋👋👋  
