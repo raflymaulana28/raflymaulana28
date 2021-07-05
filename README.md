@@ -1,4 +1,4 @@
-## Hi there!!! Im Rafly Maulana <img  src="https://i.gifer.com/4foo.gif" height="50" alt=""/>  
+## Hi there!!! Im Rafly Maulana <img src="https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="75" alt=""/>  
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=raflymaulana28&show_icons=true&theme=radical)  ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=raflymaulana28&layout=compact&theme=nightowl)
 
