@@ -3,8 +3,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=raflymaulana28&show_icons=true&theme=radical)  ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=raflymaulana28&layout=compact&theme=nightowl)
 
 ### About Me
-- 🔭 I’m currently interning on [KodingWorks.io](https://kodingworks.io/)  as Frontend Engineer
-- 🌱 I’m currently learning ReactJS ⚛️ and NextJS 🔺
+- 🔭 I’m currently looking for job as Software Engineer   
+- 🌱 I’m currently learning ReactJS, NextJS, Node JS, MongoDB, and Postgresql     
 - 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdVxsnQhBhCTKpvClGrxKZcBzqxmLScGqWqqnHGWvcrRgTRbMVxkMTMtjcznTZMLSpCxL) and [Tele](https://t.me/rm2846)
 - ⚡ Fun fact: Motogp addict 🏍️ Coffee addict ☕ Currently single 👨‍🦱 Favorit music [Imagine Dragons-Demons](https://www.youtube.com/watch?v=mWRsgZuwf_8) 🎵 Football addict ⚽  
 - 🌐 [raflymaulana.xyz](https://raflymaulana.xyz)  
