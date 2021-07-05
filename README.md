@@ -1,4 +1,4 @@
-## Hi there!!! Im Rafly Maulana <img  src="https://media1.tenor.com/images/dc4e4c324a8ceaa5b088758489673deb/tenor.gif" height="50" alt=""/>  
+## Hi there!!! Im Rafly Maulana <img  src="https://i.gifer.com/4foo.gif" height="50" alt=""/>  
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=raflymaulana28&show_icons=true&theme=radical)  ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=raflymaulana28&layout=compact&theme=nightowl)
 
@@ -6,9 +6,14 @@
 - 🔭 I’m currently looking for job as Software Engineer   
 - 🌱 I’m currently learning ReactJS, NextJS, Node JS, MongoDB, and Postgresql     
 - 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdVxsnQhBhCTKpvClGrxKZcBzqxmLScGqWqqnHGWvcrRgTRbMVxkMTMtjcznTZMLSpCxL) and [Tele](https://t.me/rm2846)
-- ⚡ Fun fact: Motogp addict 🏍️ Coffee addict ☕ Currently single 👨‍🦱 Favorit music [Imagine Dragons-Demons](https://www.youtube.com/watch?v=mWRsgZuwf_8) 🎵 Football addict ⚽  
-- 🌐 [raflymaulana.xyz](https://raflymaulana.xyz)  
-- <b>M</b> [My Medium](https://medium.com/@raflymaulana)  
+- ⚡ Fun fact:   
+      + Motogp addict 🏍️  
+      + Coffee addict ☕   
+      + Currently single 👨‍🦱   
+      + Favorit music [Imagine Dragons-Demons](https://www.youtube.com/watch?v=mWRsgZuwf_8) 🎵  
+      + Football addict ⚽   
+      + 🌐 [raflymaulana.xyz](https://raflymaulana.xyz)    
+      + <b>M</b> [My Medium](https://medium.com/@raflymaulana)  
   
 ### Latest Blog  
 - [Kenapa Aku Memilih ReactJS?](https://medium.com/@raflymaulana/kenapa-aku-memilih-react-js-94c82da48623)  
