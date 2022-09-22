@@ -4,7 +4,7 @@
 
 ### About Me    
 - 🌱 I’m currently learning ReactJS, NextJS, Node JS, MongoDB, and Postgresql     
-- 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdVxsnQhBhCTKpvClGrxKZcBzqxmLScGqWqqnHGWvcrRgTRbMVxkMTMtjcznTZMLSpCxL) and [Tele](https://t.me/rm2846)
+- 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdVxsnQhBhCTKpvClGrxKZcBzqxmLScGqWqqnHGWvcrRgTRbMVxkMTMtjcznTZMLSpCxL)  
 - ⚡ Fun fact:   
       + Motogp addict 🏍️  
       + Coffee addict ☕   
